@@ -11,7 +11,7 @@
 
 return
 	array(
-		"base_url" => "http://cruzando.com.ar/hauth/hybridauth_endpoint",
+		"base_url" => "http://<your_domain>/hauth/hybridauth_endpoint",
 
 		"providers" => array (
 			// openid providers			
